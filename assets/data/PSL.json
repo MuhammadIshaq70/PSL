@@ -1,0 +1,144 @@
+{
+  "teams": [
+    {
+      "fullName": "Islamabad United",
+      "shortName": "ISLAMABAD",
+      "captain": " Shadab Khan",
+      "flag": "assets/flage/islamabad.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Karachi Kings",
+      "shortName": "KARACHI",
+      "captain": "  Babar Azam",
+      "flag": "assets/flage/karachi.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Lahore Qalandars",
+      "shortName": "LAHORE",
+      "captain": " Shaheen Shah Afridi",
+      "flag": "assets/flage/lahore.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Peshawar Zalmi",
+      "shortName": "PESHAWAR",
+      "captain": "Wahab Riaz",
+      "flag": "assets/flage/peshawar.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Quetta Gladiators",
+      "shortName": "ISLAMABAD",
+      "captain": "Sarfaraz Ahmad",
+      "flag": "assets/flage/quetta.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    },
+    {
+      "fullName": "Multan Sultans",
+      "shortName": "MULTAN",
+      "captain": "Muhammad Rizwan",
+      "flag": "assets/flage/multan.png",
+      "captainImage": "assets/captains/erasmus2.jpeg"
+    }
+  ],
+  "history": [
+    {
+      "winner": "Islamabad United",
+      "runnerUp": "Quetta Gladiators",
+      "host": "UAE",
+      "winnerCaptain": "assets/captain_history/winner captan 2016 misbah.png",
+      "runnerUpCaptain": "assets/captain_history/runnerup captain2016 sarfaraz.png",
+      "winnerScore": "175/4 (18.4 overs)",
+      "runnerUpScore": "174/7 (20 overs)",
+      "year": "2016"
+    },
+    {
+      "winner": "Peshawar Zalmi",
+      "runnerUp": "Quetta Gladiators",
+      "host": "Pakistan",
+      "winnerCaptain": "assets/captain_history/darren.png",
+      "runnerUpCaptain": "assets/captain_history/runnerup captain2017 sarfaraz.png",
+      "winnerScore": "148/6 (20 overs)",
+      "runnerUpScore": "90 (16.3 overs)",
+      "year": "2017"
+    },
+    {
+      "winner": "Islamabad United",
+      "runnerUp": "Peshawar Zalmi",
+      "host": "Pakistan",
+      "winnerCaptain": "assets/captain_history/winner captan 2018 misbah.png",
+      "runnerUpCaptain": "assets/captain_history/darren.png",
+      "winnerScore": "154/7 (16.5 overs)",
+      "runnerUpScore": "148/9 (20 overs)",
+      "year": "2018"
+    },
+    {
+      "winner": "Quetta Gladiators",
+      "runnerUp": "Peshawar Zalmi",
+      "host": "Pakistan",
+      "winnerCaptain": "assets/captain_history/winner captain2019 sarfaraz.png",
+      "runnerUpCaptain": "assets/captain_history/darren.png",
+      "winnerScore": "139/2 (17.5 overs)",
+      "runnerUpScore": "138/8 (20 overs)",
+      "year": "2019"
+    },
+    {
+      "winner": "Karachi Kings",
+      "runnerUp": "Lahore Qalandars",
+      "host": "Pakistan",
+      "winnerCaptain": "assets/captain_history/winner captain2020 Imad.png",
+      "runnerUpCaptain": "assets/captain_history/runnerup captain2020 shaheen.png",
+      "winnerScore": "135/5 (18.4 overs)",
+      "runnerUpScore": "134/7 (20 overs)",
+      "year": "2020"
+    },
+    {
+      "winner": "Multan Sultans",
+      "runnerUp": "Peshawar Zalmi",
+      "host": "UAE",
+      "winnerCaptain": "assets/captain_history/winner captain2021 rizwan.png",
+      "runnerUpCaptain": "assets/captain_history/wahab.png",
+      "winnerScore": "206/4 (20 overs)",
+      "runnerUpScore": "159/9 (20 overs)",
+      "year": "2021"
+    },
+    {
+      "winner": "Lahore Qalandars",
+      "runnerUp": "Multan Sultans",
+      "host": "Pakistan",
+      "winnerCaptain": "assets/captain_history/winner captain2022 shaheen.png",
+      "runnerUpCaptain": "assets/captain_history/runnerup captain2022 rizwan.png",
+      "winnerScore": "180/5 (20 overs)",
+      "runnerUpScore": "138/10 (19.3 overs)",
+      "year": "2022"
+    }
+  ],
+  "venues": [
+    {
+      "country": "Pakistan",
+      "city": "Karachi",
+      "stadium": "National Stadium",
+      "image": "assets/stadium/karachi national stadium.png"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Lahore",
+      "stadium": "Gadaffi Stadium",
+      "image": "assets/stadium/Lahore.jpg"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Multan",
+      "stadium": "Multan cricket stadium",
+      "image": "assets/stadium/Multan-Cricket-Stadium-1.jpg"
+    },
+    {
+      "country": "Pakistan",
+      "city": "Rawalpindi",
+      "stadium": "Rawalpindi cricket stadium",
+      "image": "assets/stadium/Rawalpindi cricket stadum.jpg"
+    }
+  ]
+}
